@@ -1,2 +1,2 @@
 # OIBSIP
-Web Development and Data Science projects
+Web Development and Design
