@@ -1,2 +1,2 @@
-# OIBSIP
-Web Development and Design
+# OIBSIP calculator
+HTML CSS Javascript (web Developement and Design)
